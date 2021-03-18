@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Néstor</h1>
-<h3 align="center">A passionate full-stack developer eager to practice my data science skills</h3>
+<h3 align="center">A passionate full-stack developer eager to practice my data science skills :blush:</h3>
 
-- 🔭 I’m currently working on [Aervio](https://www.aervio.com/)
+- 🔭 I’m currently working on [Aervio] as a full-stack developer (https://www.aervio.com/)
 
 - 🌱 I’m currently learning **data science**
 
-- 👯 I’m looking to collaborate on **ML/AI projects**
+- :muscle: I’m looking to collaborate on **ML/AI projects**
 
 - 💬 Ask me about **Angularjs, .NET, Azure**
 
 - 📫 How to reach me **nestor.suarez.alfonso[at]gmail.com**
 
-- ⚡ Fun fact **Love salsa dancing ;)**
+- ⚡ Fun fact **Love salsa dancing :dancer:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
