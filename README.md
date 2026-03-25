@@ -1,25 +1,38 @@
-<h1 align="center">Hi 👋, I'm Néstor</h1>
-<h3 align="center">A passionate full-stack developer eager to practice my data science skills :blush:</h3>
+# Hi, I'm Néstor 👋
 
-- 🔭 I’m currently working on [Aervio] as a full-stack developer (https://www.aervio.com/)
+**Technical Leader · AI Engineer · Travel Tech**
 
-- 🌱 I’m currently learning **data science**
+I build technology that frees people from work that adds no value to their lives. For 9 years I was CTO & Co-founder of [Aervio](https://www.linkedin.com/in/nessuarez/), a B2B travel tech startup where I built the product from scratch — and where I learned that the best tech decisions come from understanding the user's problem first.
 
-- :muscle: I’m looking to collaborate on **ML/AI projects**
+Today I'm focused on **AI Engineering**: designing and deploying LLM-powered systems and intelligent products in production — not demos.
 
-- 💬 Ask me about **Angularjs, .NET, Azure**
+---
 
-- 📫 How to reach me **nestor.suarez.alfonso[at]gmail.com**
+### 🔭 What I'm working on
 
-- ⚡ Fun fact **Love salsa dancing :dancer:**
+- Training in **AI Engineering** at [LIDR.co](https://www.lidr.co/ai-engineering/) — LLMs, RAG, multi-agent systems, LLMOps
+- Certified **Data Scientist** (Associate + Professional) — [DataCamp](https://www.datacamp.com/portfolio/nessuarez)
+- Exploring AI-first product ideas in the **Business Travel** space
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nessuarez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nessuarez" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nessuarez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nessuarez" height="30" width="40" /></a>
-<a href="https://kaggle.com/nessuarez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nessuarez" height="30" width="40" /></a>
-<a href="https://medium.com/@nestor.suarez.alfonso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@nestor.suarez.alfonso" height="30" width="40" /></a>
-</p>
+### 🧠 What I bring to the table
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+- **Product vision**: 9 years owning strategy, roadmap, and user research as CTO
+- **Data-driven mindset**: built KPI systems, integrated NLP & OpenAI API in production
+- **Builder mentality**: I start from scratch — architecture to UI to analytics
+
+### 🛠️ Tech I work with
+
+**AI/ML:** Python · OpenAI API · LLMs · NLP · scikit-learn · TensorFlow · pandas  
+**Backend:** C# · .NET Core · ASP.NET · REST APIs · SQL Server  
+**Data:** Segment · Amplitude · KPI design · product analytics  
+**Cloud & DevOps:** Azure · Docker · Git · CI/CD
+
+### 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nessuarez-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/nessuarez)
+[![DataCamp](https://img.shields.io/badge/DataCamp-Portfolio-03EF62?style=flat&logo=datacamp)](https://www.datacamp.com/portfolio/nessuarez)
+[![Email](https://img.shields.io/badge/Email-nessuarez@gmail.com-EA4335?style=flat&logo=gmail)](mailto:nessuarez@gmail.com)
+
+---
+
+*🔍 Open to opportunities as CTO, VP Engineering, or AI Engineer in travel tech and related sectors. Spain or remote in Europe.*
