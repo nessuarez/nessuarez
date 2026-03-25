@@ -23,8 +23,11 @@ Today I'm focused on **AI Engineering**: designing and deploying LLM-powered sys
 ### 🛠️ Tech I work with
 
 **AI/ML:** Python · OpenAI API · LLMs · NLP · scikit-learn · TensorFlow · pandas
+
 **Backend:** C# · .NET Core · ASP.NET · REST APIs · SQL Server
+
 **Data:** Segment · Amplitude · KPI design · product analytics
+
 **Cloud & DevOps:** Azure · Docker · Git · CI/CD
 
 ### 📫 Let's connect
