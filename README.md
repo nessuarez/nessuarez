@@ -22,16 +22,16 @@ Today I'm focused on **AI Engineering**: designing and deploying LLM-powered sys
 
 ### 🛠️ Tech I work with
 
-**AI/ML:** Python · OpenAI API · LLMs · NLP · scikit-learn · TensorFlow · pandas  
-**Backend:** C# · .NET Core · ASP.NET · REST APIs · SQL Server  
-**Data:** Segment · Amplitude · KPI design · product analytics  
+**AI/ML:** Python · OpenAI API · LLMs · NLP · scikit-learn · TensorFlow · pandas
+**Backend:** C# · .NET Core · ASP.NET · REST APIs · SQL Server
+**Data:** Segment · Amplitude · KPI design · product analytics
 **Cloud & DevOps:** Azure · Docker · Git · CI/CD
 
 ### 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nessuarez-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/nessuarez)
 [![DataCamp](https://img.shields.io/badge/DataCamp-Portfolio-03EF62?style=flat&logo=datacamp)](https://www.datacamp.com/portfolio/nessuarez)
-[![Email](https://img.shields.io/badge/Email-nessuarez@gmail.com-EA4335?style=flat&logo=gmail)](mailto:nessuarez@gmail.com)
+[![Contact](https://img.shields.io/badge/Contact-mypublicinbox-EA4335?style=flat&logo=gmail)](https://mypublicinbox.com/nessuarez)
 
 ---
 
