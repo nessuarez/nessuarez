@@ -10,8 +10,8 @@ Today I'm focused on **AI Engineering**: designing and deploying LLM-powered sys
 
 ### 🔭 What I'm working on
 
-- Training in **AI Engineering** at [LIDR.co](https://www.lidr.co/ai-engineering/) — LLMs, RAG, multi-agent systems, LLMOps
-- Certified **Data Scientist** (Associate + Professional) — [DataCamp](https://www.datacamp.com/portfolio/nessuarez)
+- Completed the **Master in AI Engineering** at [LIDR.co](https://www.lidr.co/ai-engineering/) (2026) — LLMs, RAG, multi-agent systems, LLMOps
+- Certified **Data Scientist** (Associate + Professional) — DataCamp: [Data Scientist](https://www.datacamp.com/certificate/DS0023502395869) · [Data Scientist Associate](https://www.datacamp.com/certificate/DSA0013403107807)
 - Exploring AI-first product ideas in the **Business Travel** space
 
 ### 🧠 What I bring to the table
@@ -22,19 +22,15 @@ Today I'm focused on **AI Engineering**: designing and deploying LLM-powered sys
 
 ### 🛠️ Tech I work with
 
-**AI/ML:** Python · OpenAI API · LLMs · NLP · scikit-learn · TensorFlow · pandas
-
-**Backend:** C# · .NET Core · ASP.NET · REST APIs · SQL Server
-
-**Data:** Segment · Amplitude · KPI design · product analytics
-
+**AI/ML:** Python · OpenAI API · LLMs · NLP · scikit-learn · TensorFlow · pandas  
+**Backend:** C# · .NET Core · ASP.NET · REST APIs · SQL Server  
+**Data:** Segment · Amplitude · KPI design · product analytics  
 **Cloud & DevOps:** Azure · Docker · Git · CI/CD
 
 ### 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nessuarez-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/nessuarez)
-[![DataCamp](https://img.shields.io/badge/DataCamp-Portfolio-03EF62?style=flat&logo=datacamp)](https://www.datacamp.com/portfolio/nessuarez)
-[![Contact](https://img.shields.io/badge/Contact-mypublicinbox-EA4335?style=flat&logo=gmail)](https://mypublicinbox.com/nessuarez)
+[![Email](https://img.shields.io/badge/Email-nestor.suarez.alfonso@gmail.com-EA4335?style=flat&logo=gmail)](mailto:nestor.suarez.alfonso@gmail.com)
 
 ---
 
